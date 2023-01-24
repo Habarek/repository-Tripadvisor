@@ -1,0 +1,17 @@
+.container {
+  width: 1024px;
+  /* border: solid 1px red; */
+  margin: 0 auto;
+  background-color: red;
+}
+header {
+  height: 80px;
+  border-bottom: 1px solid #f36e58;
+  background-color: rgb(68, 23, 23);
+}
+
+header img {
+  width: 200px;
+  height: 60px;
+  margin: 10px 140px;
+}
